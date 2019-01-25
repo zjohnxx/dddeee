@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const prefix = '&';
+const prefix = '$';
 const axios = require('axios');
 const fs = require('fs');
 const ms = require('ms');
